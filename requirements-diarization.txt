@@ -1,0 +1,3 @@
+# Optional independent environment, install only with informed approval.
+# Resolve compatible Python/torch/torchcodec for target platform and record actual versions.
+pyannote.audio>=4,<5

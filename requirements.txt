@@ -1,0 +1,5 @@
+# Tested core engine. Python >=3.9; install only after user approval.
+# Transitive packages remain platform-dependent; record the resolved environment per run.
+faster-whisper==1.2.1
+# Optional Word export: python-docx (approve and inspect its current requirements first).
+# Optional diarization has a separate environment; see references/transcription-workflow.md.

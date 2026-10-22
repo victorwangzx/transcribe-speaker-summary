@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audio Speaker Transcription"
+  short_description: "Transcribe audio with setup checks and speaker labels"
+  default_prompt: "Use $transcribe-speaker-summary to transcribe this recording, confirm my output destination and file format, label speakers with uncertainty, and summarize their key points."
